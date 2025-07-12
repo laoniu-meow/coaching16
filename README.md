@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-
-# Coaching16
-
-=======
 Team Members:
 Andrew
 Cathrina
